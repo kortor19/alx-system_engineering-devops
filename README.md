@@ -1,1 +1,1 @@
-pwd
+system engineering and devops
